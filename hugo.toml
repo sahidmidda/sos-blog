@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Sahid on Software (SOS)"
+theme = 'Paper'
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  defaultTheme = "auto"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/sahidmidda"
+    weight = 2
+
+  [[menu.main]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/sahidmidda"
+    weight = 3
