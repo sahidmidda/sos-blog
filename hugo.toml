@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Sahid on Software (SOS)"
-theme = 'Paper'
+theme = 'paper'
 
 [params]
   ShowReadingTime = true
