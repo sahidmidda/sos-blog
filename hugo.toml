@@ -1,4 +1,4 @@
-baseURL = 'https://sahid-on-software.netlify.app/'
+baseURL = 'https://sahidmidda.site/'
 languageCode = 'en-us'
 title = "Sahid on Software (SOS)"
 theme = 'paper'
