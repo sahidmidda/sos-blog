@@ -1,5 +1,6 @@
 baseURL = 'https://blog.sahidmidda.site/'
-anguageCode = 'en-us'
+canonifyURLs = true
+languageCode = 'en-us'
 title = "Sahid on Software (SOS)"
 theme = 'paper'
 
